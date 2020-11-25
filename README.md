@@ -20,4 +20,23 @@ www.microbit.org
 https://microbit-micropython.readthedocs.io/en/v1.0.1/
 
 
+* Mu-Editor Installation:
+https://codewith.mu/en/download
+
+
+* Seminar Slides: 
+
+
+* Python Language:
+https://www.w3schools.com/python/default.asp
+https://www.python.org/	(advanced full reference for Python)
+https://wiki.python.org/moin/BeginnersGuide  (still pretty advanced)
+	
+
+* Electronics Basics Vendors 
+Adafruit Industries: www.adafruit.com
+Sparkfun electronics: www.sparkfun.com
+
+
+
 <li>
