@@ -1,8 +1,10 @@
 ## IEEE bbc:microbit Training Repository
 
-This repository is designed for both teachers and students on the bbc:microbit. Sample applications and training materials are designed mainly in Python for use on the microbit. Python is a fantastic language to learn how to program, and the bbc:microbit offers a very complete platform to learn both electronics and the Python launguage itself.
+This repository is designed for both teachers and students on the bbc:microbit. Sample applications and training materials are designed mainly in Python for use on the microbit. Python is a fantastic language to learn how to program, and the bbc:microbit offers a very complete platform to learn both electronics and the Python language itself.
 
-We will direct students to folders designed for them within this repository. We will also have folders for teachers and instructors of the on-line lessons. But there are no restrictions on this repository and the materials are welcome to all.
+There are two main folders for the course material, presentations/ and programs/ . Students are welcome to any of the material but the programs used for the micro:bit are all located in the programs/ folder.
+ 
+There are no restrictions on this repository and the materials are welcome to all.
 
 
 
