@@ -1,8 +1,6 @@
+#
 # Music demo 1
 #
-# s.case 11/13/20
-#
-
 
 from microbit import *
 import music
@@ -16,8 +14,8 @@ while True:
         music.play(music.FUNERAL)
     display.clear()
 
-    if button_a.is_pressed():
-        display.show(Image.HAPPY)
-    elif button_b.is_pressed():
-        display.show(Image.SAD)
-    display.clear()
+#     if button_a.is_pressed():
+#         display.show(Image.HAPPY)
+#     elif button_b.is_pressed():
+#         display.show(Image.SAD)
+#     display.clear()

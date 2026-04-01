@@ -1,10 +1,25 @@
 # Micropython Lessons
 ## Basics
+### Presentation Microbit V3.pptx
+Slides 1-8
+
+### Presentation - REPL v3.pptx
+Slides 1-7
+
 ### Use the REPL
-1+1
-print("Hello World")
+- Do some math, 1+1, 10*3.14159
+- Explain variables, a=5, b=6, a+b
+- print("Hello World")
+- a="hello", b="world", a+b 
+
+
+### Presentation - REPL v3.pptx
+Slides 8
+
 
 ### Lesson: Libraries
+#### Presentation - REPL v3.pptx
+Slides 8
 import machine
 dir(machine)
 
