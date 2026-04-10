@@ -1,11 +1,7 @@
+#
 # For-Loop 1
 #
-# s.case 10/26/20
-#
-#
 
-
-# Bring in the libraries that you need
 from microbit import *
 import music
 

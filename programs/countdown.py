@@ -1,8 +1,6 @@
 
 #
-# disp_n.py
-#
-# Shake the microbit to roll the dice.
+# countdown.py
 #
 #
 

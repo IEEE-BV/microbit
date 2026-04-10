@@ -1,5 +1,10 @@
+#
+# funny.py - use speech for some fun
+#
+
 from microbit import *
 import speech
+
 
 display.show(Image.HAPPY)
 sleep(1000)

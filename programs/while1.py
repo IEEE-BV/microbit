@@ -1,3 +1,7 @@
+#
+# while1.py  - how to loop with a while-loop
+#
+
 from microbit import *
 
 i = 0
