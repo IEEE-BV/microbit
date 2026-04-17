@@ -1,16 +1,16 @@
 #
-#  frequency.py
-#
-#  produce square wave on pin
-#
+#  beep.py
 #
 
 from microbit import *
+import music
+
+def my_beep(pitch, duration):
+    music.pitch(pitch, duration)
+
+stepsize = 25
 
 while True:
-    
-    pins.digital_write_pin(DigitalPin.P1, 1)
-    sleep(500)
-    pins.digital_write_pin(DigitalPin.P1, 0)
-    sleep
-    
+    for i in range(440, 1100, stepsize):
+        my_beep(i, 200)
+        

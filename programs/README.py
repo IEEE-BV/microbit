@@ -20,7 +20,7 @@ https://www.w3schools.com/python/default.asp
 https://www.python.org/	(advanced full reference for Python)
 https://wiki.python.org/moin/BeginnersGuide  (still pretty advanced)
 
-	
+'''	
 
 
 
